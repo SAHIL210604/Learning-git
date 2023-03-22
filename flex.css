@@ -1,0 +1,18 @@
+.box{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin:30px;
+
+}
+.pos{
+    display: flex;
+    /*flex-direction: column;*/
+
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    align-items: center;
+
+}
